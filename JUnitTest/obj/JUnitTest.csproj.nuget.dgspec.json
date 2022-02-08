@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/pankajkumar/Projects/UserRegistrationLambda/JUnitTest/JUnitTest.csproj": {}
+  },
+  "projects": {
+    "/Users/pankajkumar/Projects/UserRegistrationLambda/JUnitTest/JUnitTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pankajkumar/Projects/UserRegistrationLambda/JUnitTest/JUnitTest.csproj",
+        "projectName": "JUnitTest",
+        "projectPath": "/Users/pankajkumar/Projects/UserRegistrationLambda/JUnitTest/JUnitTest.csproj",
+        "packagesPath": "/Users/pankajkumar/.nuget/packages/",
+        "outputPath": "/Users/pankajkumar/Projects/UserRegistrationLambda/JUnitTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pankajkumar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/UserRegistrationLambda.csproj": {
+                "projectPath": "/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/UserRegistrationLambda.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/UserRegistrationLambda.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/UserRegistrationLambda.csproj",
+        "projectName": "UserRegistrationLambda",
+        "projectPath": "/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/UserRegistrationLambda.csproj",
+        "packagesPath": "/Users/pankajkumar/.nuget/packages/",
+        "outputPath": "/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/pankajkumar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

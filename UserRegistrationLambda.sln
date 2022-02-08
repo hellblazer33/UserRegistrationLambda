@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegistrationLambda", "UserRegistrationLambda\UserRegistrationLambda.csproj", "{CA57B2D6-335A-4380-8F48-7C90AE998462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JUnitTest", "JUnitTest\JUnitTest.csproj", "{F7F85718-31C1-43D0-B683-C7EB499C5644}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA57B2D6-335A-4380-8F48-7C90AE998462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA57B2D6-335A-4380-8F48-7C90AE998462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA57B2D6-335A-4380-8F48-7C90AE998462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA57B2D6-335A-4380-8F48-7C90AE998462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F85718-31C1-43D0-B683-C7EB499C5644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F85718-31C1-43D0-B683-C7EB499C5644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F85718-31C1-43D0-B683-C7EB499C5644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F85718-31C1-43D0-B683-C7EB499C5644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9E3C953-7D35-4069-B969-51F3B961BE61}
+	EndGlobalSection
+EndGlobal

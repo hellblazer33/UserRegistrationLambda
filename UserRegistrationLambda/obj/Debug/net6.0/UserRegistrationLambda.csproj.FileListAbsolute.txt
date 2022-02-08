@@ -1,0 +1,14 @@
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/bin/Debug/net6.0/UserRegistrationLambda
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/bin/Debug/net6.0/UserRegistrationLambda.deps.json
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/bin/Debug/net6.0/UserRegistrationLambda.runtimeconfig.json
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/bin/Debug/net6.0/UserRegistrationLambda.dll
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/bin/Debug/net6.0/ref/UserRegistrationLambda.dll
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/bin/Debug/net6.0/UserRegistrationLambda.pdb
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/obj/Debug/net6.0/UserRegistrationLambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/obj/Debug/net6.0/UserRegistrationLambda.AssemblyInfoInputs.cache
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/obj/Debug/net6.0/UserRegistrationLambda.AssemblyInfo.cs
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/obj/Debug/net6.0/UserRegistrationLambda.csproj.CoreCompileInputs.cache
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/obj/Debug/net6.0/UserRegistrationLambda.dll
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/obj/Debug/net6.0/ref/UserRegistrationLambda.dll
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/obj/Debug/net6.0/UserRegistrationLambda.pdb
+/Users/pankajkumar/Projects/UserRegistrationLambda/UserRegistrationLambda/obj/Debug/net6.0/UserRegistrationLambda.genruntimeconfig.cache
